@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GammaTradeApp_Console", "GammaTradeApp_Console\GammaTradeApp_Console.vcxproj", "{6CFF946D-A4AD-4952-AD31-62E6760F3953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Debug|x64.ActiveCfg = Debug|x64
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Debug|x64.Build.0 = Debug|x64
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Debug|x86.Build.0 = Debug|Win32
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Release|x64.ActiveCfg = Release|x64
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Release|x64.Build.0 = Release|x64
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Release|x86.ActiveCfg = Release|Win32
+		{6CFF946D-A4AD-4952-AD31-62E6760F3953}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E21FCD-1878-42C8-9F56-AFB38F771276}
+	EndGlobalSection
+EndGlobal
